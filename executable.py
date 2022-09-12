@@ -1,3 +1,5 @@
+#Simple use of a GUI interface
+
 import tkinter as tk
 
 root = tk.Tk()
