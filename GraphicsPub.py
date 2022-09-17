@@ -69,7 +69,7 @@ while buyButton == True:
     AddUsername = browser.find_element_by_id('fld-e')
     AddUsername.click()
 
-    AddUsername.send_keys("email") #Your email address should be listed here like "JMahoney@jerkmate.com" or whatever
+    AddUsername.send_keys("email") #Your email address should be listed here like "JMahoney@gmail.com" or whatever
 
     AddPassword = browser.find_element_by_id('fld-p1')
     AddPassword.click()
