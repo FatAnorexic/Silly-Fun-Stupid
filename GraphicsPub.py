@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
-
+#This program is likely completely outdated, nor is there any intention of updating it. 
 
 #This has been tested using chrome, I have not tested it with any other web browser, be sure to consult slenium doc for more. 
 browser = webdriver.Chrome('Driver path') """This is where you'll key in the drivever path where you installed the chromedriver for selenium.
